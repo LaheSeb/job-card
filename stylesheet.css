@@ -1,0 +1,26 @@
+body{font-family:  Helvetica ;
+}
+
+h1{
+    color: blueviolet;
+    border-bottom: dotted 10px purple;
+}
+h2{
+    font-style: italic;
+    
+}
+ul.job-contact{
+    max-width: 300px;
+    background-color: lightgrey;
+    border: 5px solid purple;
+    padding: 20px;
+}
+a{
+    color: green;
+}
+a:hover{
+    text-decoration: none;
+}
+.job-title{
+    color: grey;
+}
